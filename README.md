@@ -15,6 +15,8 @@ A mini project built with HTML and CSS Grid, inspired by the abstract art style 
 - Fully responsive on larger viewports
 - Artistic layout recreated entirely without images
 
+---
+
 ## 🎯 Project Purpose:
 To practice and strengthen CSS Grid skills through a creative visual exercise that blends modern web development with artistic design.
 
